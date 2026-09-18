@@ -35,6 +35,7 @@ description: 运营 Andy小助手Vince 的 AI 商业自媒体：读取六个平�
 - 平台字段、素材形态、固定声明和发布前检查： references/platform-playbook.md
 - 日报表格、数据缺口和输出结构： references/report-format.md
 - 标题、案例、教程、短视频和 X Thread 模板： references/content-templates.md
+- 生产默认值（配音、BGM 和用户音色启用条件）： production-defaults.md
 - 创建日报模板：执行 scripts/new_daily_report.py，默认使用 Australia/Sydney 日期且不覆盖已有文件。
 
 ## 不可违反的运营边界
