@@ -1,4 +1,4 @@
 interface:
   display_name: "自媒体全自动运营"
-  short_description: "AI商业自媒体的全自动运营、分发与增长复盘。"
+  short_description: "AI商业自媒体的全自动运营、平台分发与增长策略复盘。"
   default_prompt: "使用 $andy-vince-ip-operator 复盘六个平台数据并生成今天的内容与增长实验。"

@@ -126,7 +126,7 @@ function Layout() {
                 <Orbit className="h-6 w-6 text-white" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-primary">自媒体全自动运营</h1>
+                <h1 className="text-xl font-bold text-primary">自媒体全自动运营</h1>
                 <p className="mt-1 text-xs text-gray-500">自媒体工作台</p>
               </div>
             </div>
