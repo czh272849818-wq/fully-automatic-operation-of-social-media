@@ -95,7 +95,7 @@ function Dashboard() {
       <section className="rounded-lg border border-gray-200 bg-white p-6">
         <div className="flex flex-col justify-between gap-6 lg:flex-row lg:items-end">
           <div>
-            <p className="text-sm font-semibold text-primary">势能舱</p>
+            <p className="text-sm font-semibold text-primary">自媒体全自动运营</p>
             <h1 className="mt-2 max-w-3xl text-4xl font-bold leading-tight text-gray-950">
               用AI把一条内容变成多平台分发、复盘和变现的闭环。
             </h1>

@@ -71,7 +71,7 @@ function DataInsights() {
     try {
       await chatCompletionStream(
         [
-          { role: 'system', content: '你是势能舱数据增长顾问。用数据找约束，只输出可验证动作。' },
+          { role: 'system', content: '你是自媒体全自动运营数据增长顾问。用数据找约束，只输出可验证动作。' },
           {
             role: 'user',
             content: `

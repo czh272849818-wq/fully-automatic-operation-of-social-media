@@ -60,7 +60,7 @@ function CustomerCenter() {
     try {
       await chatCompletionStream(
         [
-          { role: 'system', content: '你是势能舱成交转化顾问。输出必须是可复制话术和下一步动作。' },
+          { role: 'system', content: '你是自媒体全自动运营成交转化顾问。输出必须是可复制话术和下一步动作。' },
           {
             role: 'user',
             content: `

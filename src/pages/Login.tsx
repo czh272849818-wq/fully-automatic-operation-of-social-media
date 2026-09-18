@@ -55,7 +55,7 @@ function Login() {
               <Orbit className="h-6 w-6" />
             </div>
             <div>
-              <p className="text-xl font-bold text-gray-950">势能舱</p>
+              <p className="text-xl font-bold text-gray-950">自媒体全自动运营</p>
               <p className="text-xs text-gray-500">自媒体工作台</p>
             </div>
           </div>

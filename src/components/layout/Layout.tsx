@@ -126,7 +126,7 @@ function Layout() {
                 <Orbit className="h-6 w-6 text-white" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-primary">势能舱</h1>
+                <h1 className="text-2xl font-bold text-primary">自媒体全自动运营</h1>
                 <p className="mt-1 text-xs text-gray-500">自媒体工作台</p>
               </div>
             </div>
@@ -198,7 +198,7 @@ function Layout() {
           <div className="flex h-[520px] w-[380px] flex-col overflow-hidden rounded-lg border border-gray-200 bg-white shadow-2xl">
             <div className="flex items-center justify-between border-b border-gray-100 bg-[#F4F7F6] px-4 py-3">
               <div>
-                <p className="text-sm font-semibold text-gray-900">势能舱AI · {moduleMeta.title}</p>
+                <p className="text-sm font-semibold text-gray-900">自媒体全自动运营 AI · {moduleMeta.title}</p>
                 <p className="text-xs text-gray-500">面向自媒体工作者的执行建议</p>
               </div>
               <button
